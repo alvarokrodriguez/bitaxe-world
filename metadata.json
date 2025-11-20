@@ -1,0 +1,5 @@
+{
+  "name": "Bitcoin Miner Comparator",
+  "description": "An interactive web application to compare the specifications of various Bitcoin miners in a 'choose your player' format. Easily view and contrast metrics like hashrate, power consumption, and efficiency.",
+  "requestFramePermissions": []
+}
